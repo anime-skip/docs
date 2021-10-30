@@ -1,1 +1,3 @@
-See the [Wiki](https://github.com/anime-skip/docs/wiki) for all documentation
+# Contributing Docs
+
+See the [Wiki](https://github.com/anime-skip/docs/wiki) to get started!
