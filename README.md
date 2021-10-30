@@ -1,2 +1,1 @@
-# docs
-All the docs for using and contributing to the Anime Skip open source collection
+See the [Wiki](https://github.com/anime-skip/docs/wiki) for all documentation
